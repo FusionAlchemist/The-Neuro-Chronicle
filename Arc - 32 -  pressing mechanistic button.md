@@ -1,0 +1,12 @@
+{"ts":"2026-05-19T21:49:53.927Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/training","status":200,"duration\_ms":0,"requestId":"1779227393927-j69p4j","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:49:54.352Z","level":"info","pid":2388,"msg":"http\_request","method":"POST","path":"/scanner/scan","status":200,"duration\_ms":261,"requestId":"1779227394091-ts5d9f","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:04.595Z","level":"info","pid":2388,"msg":"http\_request","method":"POST","path":"/scanner/scan","status":200,"duration\_ms":220,"requestId":"1779227404375-bdvd41","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:14.860Z","level":"info","pid":2388,"msg":"http\_request","method":"POST","path":"/network/forward","status":200,"duration\_ms":11,"requestId":"1779227414849-lx3mew","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:14.863Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/sae","status":200,"duration\_ms":0,"requestId":"1779227414863-h02duj","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:14.864Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/causal","status":200,"duration\_ms":0,"requestId":"1779227414864-dovpyk","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:14.864Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/concepts","status":200,"duration\_ms":0,"requestId":"1779227414864-z8wbym","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:14.864Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/training","status":200,"duration\_ms":0,"requestId":"1779227414864-vg004o","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:36.281Z","level":"info","pid":2388,"msg":"http\_request","method":"POST","path":"/network/forward","status":200,"duration\_ms":8,"requestId":"1779227436273-5trlay","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:36.284Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/sae","status":200,"duration\_ms":1,"requestId":"1779227436283-xmaw5k","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:36.284Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/causal","status":200,"duration\_ms":0,"requestId":"1779227436284-vg08wn","ip":"127.0.0.1"}  
+{"ts":"2026-05-19T21:50:36.285Z","level":"info","pid":2388,"msg":"http\_request","method":"GET","path":"/interpretability/concepts","status":200,"duration\_ms":0,"requestId":"1779227436285-zrnicz","ip":"127.0.0.1"}  
